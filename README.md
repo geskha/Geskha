@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Coding
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=)**[username-anda]**&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Statistik GitHub" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-stats.vercel.app/api/top-langs/?username=)**[username-anda]**&layout=compact&theme=onedark&hide_border=true" alt="Bahasa Terbaik" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=)**[geskha]**&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Statistik GitHub" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-stats.vercel.app/api/top-langs/?username=)**[geskha]**&layout=compact&theme=onedark&hide_border=true" alt="Bahasa Terbaik" />
 </p>
 
 <!---
